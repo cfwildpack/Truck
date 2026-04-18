@@ -1,0 +1,8 @@
+{
+  "fleetName": "RapidLogistics",
+  "defaultTruckModel": "TRX-500",
+  "maxLoadKg": 20000,
+  "fuelCapacityLiters": 600,
+  "averageConsumptionLPerKm": 0.35,
+  "activeTrucks": 12
+}
